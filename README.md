@@ -3,7 +3,7 @@
 ソフトウェアを実行するハードウェアの知識から，
 C言語でのソフトウェア実装についてまとめる。
 
-本リポジトリの GitHub Pages へのリンクは次のとおり。
+本リポジトリの GitHub Pages へのリンクは以下。
 https://pkeisrebpys.github.io/embedded-software/
 
 ## ページ作成の方針
@@ -17,4 +17,8 @@ https://pkeisrebpys.github.io/embedded-software/
 `*.svg`, `*.jpg`, `*.png` は git-lfs を通してリポジトリに追加する。
 
 ページで参照する例題コードなどは `src` に保存する。
+
+## ページ内容に関する注意
+ページ内容は広く一般に知られた知識・技術をまとめたものとする。
+企業の内部情報，ノウハウにあたる内容を含まないようにする。
 
