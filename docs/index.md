@@ -10,11 +10,11 @@
   - [組み込みソフトウェアの動作とC言語記述の対応](SoftwareAndComputation.md)
 - ソフトウェア開発の基礎
   - 開発工程の管理
-  - ソフトウェア変更点の管理
-  - ソフトウェア自動テスト
+  - [ソフトウェア変更点の管理](VersionControlSystem.md)
+  - [ソフトウェア自動テスト](Testing.md)
 - ソフトウェアの改善
-  - 可読性の向上と工数の削減
-  - 粒度の統一とテストしやすさ
+  - [可読性の向上と工数の削減](ReadabilityAndCostReduction.md)
+  - [粒度の統一とテストしやすさ](GranularityAndTestability.md)
   - ソフトウェアの構造化
   - 入出力の定義と内部ロジックの隠蔽
   - ソフトウェア全体構成
