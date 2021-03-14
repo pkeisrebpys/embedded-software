@@ -13,12 +13,12 @@ C 言語での開発には最低限以下が必要となる。
 minGW-w64 を用いる。
 minGW-w64 は以下のページから取得できる。
 
-- http://mingw-w64.org/doku.php
+- [http://mingw-w64.org/doku.php](http://mingw-w64.org/doku.php)
 
 インストール方法は以下のページなどに紹介されているため，
 ここでは省略する。
 
-- https://joho.g-edu.uec.ac.jp/joho/gcc_win/
+- [https://joho.g-edu.uec.ac.jp/joho/gcc_win/](https://joho.g-edu.uec.ac.jp/joho/gcc_win/)
 
 エディタは Windows に標準でインストールされているメモ帳を使ってもよい。
 ただし，ソフトウェアを効率的に記述する上では，

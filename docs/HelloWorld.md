@@ -1,5 +1,8 @@
 # お試しプログラム
 環境構築が済んだら，まずはお試しプログラムでソフトウェアが組めるか確認する。
+課題は以下のリポジトリに保存してある。
+
+- [https://github.com/pkeisrebpys/embedded-software](https://github.com/pkeisrebpys/embedded-software)
 
 ## 環境説明
 今回の実習では，ソフトウェアで実装した仮想のマイコンを対象に

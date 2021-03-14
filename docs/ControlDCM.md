@@ -21,4 +21,8 @@
 - アナログ出力電圧フルレンジがモータ定格電圧となっている。
 
 `motor-torque-simple` に課題を用意した。
+課題は以下のリポジトリに保存してある。
+
+- [https://github.com/pkeisrebpys/embedded-software](https://github.com/pkeisrebpys/embedded-software)
+
 
