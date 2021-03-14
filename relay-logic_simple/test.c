@@ -15,7 +15,7 @@ int main(int argc, char **argv) {
     unsigned int relay5 = (i & (1<<4)) != 0;
     unsigned int relay6 = (i & (1<<5)) != 0;
     unsigned int led3 = relay5 ^ relay6;
-    unsigned int led4 = (8 & 0xff) != 0;
+    unsigned int led4 = (i & 0xff) != 0;
     unsigned int ref = 0;
     ref |= led1 << 0;
     ref |= led2 << 1;
